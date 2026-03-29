@@ -1,0 +1,35 @@
+{
+  "name": "link-cloaker",
+  "version": "0.1.0",
+  "description": "A lightweight utility for generating clean redirect paths for tracking and affiliate URLs.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "link",
+    "cloaker",
+    "redirect",
+    "affiliate",
+    "tracking",
+    "publisher",
+    "utility"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brandonhimpfen/link-cloaker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brandonhimpfen/link-cloaker/issues"
+  },
+  "homepage": "https://github.com/brandonhimpfen/link-cloaker#readme",
+  "author": "Brandon Himpfen",
+  "license": "MIT"
+}
