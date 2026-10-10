@@ -1,5 +1,11 @@
 # link-cloaker
 
+[![Support Open Work](https://img.shields.io/badge/Support-Open%20Work-0A0A0A?style=flat&logo=github)](https://github.com/brandonhimpfen/support) 
+[![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) 
+[![Buy Me a Coffee](https://srv-cdn.himpfen.io/badges/buymeacoffee/buymeacoffee-flat.svg)](https://buymeacoffee.com/brandonhimpfen) 
+[![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/brandonhimpfen) 
+[![PayPal](https://srv-cdn.himpfen.io/badges/paypal/paypal-flat.svg)](https://paypal.me/brandonhimpfen)
+
 A lightweight utility for generating clean redirect paths for tracking and affiliate URLs.
 
 This project helps centralize long or messy outbound URLs behind simple internal paths such as `/go/tool-name` or `/r/partner-name`. It is designed for websites, newsletters, and publishing systems that want cleaner links, easier updates, and more consistent outbound link management.
